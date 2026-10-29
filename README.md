@@ -15,8 +15,6 @@ Scanned prints carry the day they were scanned. Shoebox Archivist reads the clue
 | [tests/](tests/) | pytest suite for the lint and the PDF |
 | [docs/why-this-idea.md](docs/why-this-idea.md) | Why this idea, against the kit's real capabilities |
 | [docs/round2-video-plan.md](docs/round2-video-plan.md) | Plan for the Round 2 demo video |
-| [SUBMISSION.md](SUBMISSION.md) | Devpost fields, drafted |
-| [HANDOFF.md](HANDOFF.md) | Steps to submit |
 
 `dist/` (the built ZIP and PDF), `vendor-kit/` (the downloaded kit) and `.venv/` are not committed.
 
